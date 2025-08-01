@@ -1,5 +1,5 @@
 {
-  "name": "Turborepo",
+  "name": "block-borrow",
   "private": true,
   "scripts": {
     "build": "turbo run build",
